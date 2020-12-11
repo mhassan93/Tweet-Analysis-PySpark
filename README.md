@@ -1,2 +1,2 @@
-# Tweet-Analysis-PySpark
-Tweet Analysis using Pyspark
+# Tweet Analysis PySpark
+Football Tweet Analysis using Pyspark
